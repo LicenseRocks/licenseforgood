@@ -24,3 +24,10 @@ Any actor (creator & sponsor & buyer) should have the option to show the digital
 We like to support blockchain devs worldwide from developing countries or countries that have problems to access to the global digital economy because of any governmental restrictions.
 
 In the beginning we like to build up a female focused blockchain developing community in Iran.
+
+Potential partners are: 
+
+startupistan 
+talentbridge.io
+GitCoin
+Ocean Protocol
