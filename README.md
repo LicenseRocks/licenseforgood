@@ -30,19 +30,19 @@ We like to support blockchain devs worldwide from developing countries or countr
 *Designers  
 *NGOs  
 *Governments  
-*Corporates
-*NFT driven projects
-*Other ownership focused technologies
-*Marketers
-*Lawyers / IP Experts for designing a fair license
+*Corporates  
+*NFT driven projects  
+*Other ownership focused technologies  
+*Marketers  
+*Lawyers / IP Experts for designing a fair license  
 
 **Needed roles:**
 
-*Maintainers
-*Creators
-*Sponsors
-*Buyers
-*Promoters
+*Maintainers  
+*Creators  
+*Sponsors  
+*Buyers  
+*Promoters  
 
 We believe that social fundraising and especially development aid is broken as donating money for food or set up projects often leads to dependence of the people we wanted to help. Projects were the local population were included and were active contributing part of overal project performed and lived way longer in our experience. 
 
