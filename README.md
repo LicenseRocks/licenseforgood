@@ -26,10 +26,10 @@ We like to support blockchain devs worldwide from developing countries or countr
 
 **Potential partners are:** 
 
-*Developers
-*Designers
-*NGOs
-*Governments
+*Developers  
+*Designers  
+*NGOs  
+*Governments  
 *Corporates
 *NFT driven projects
 *Other ownership focused technologies
