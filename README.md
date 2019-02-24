@@ -1,8 +1,12 @@
 # License for good
 
-This planed project consists out of two different parts.
+This planed project consists out of three different parts.
 
-On the one hand we want to **develop a license options for creators** that considers the effort of the maintainer & sponsors some social impact activity, on the hand we want to **provide a license solution based on decentralized technologies** that supports the monetization of digital assets.
+The first part is something we call **social badge**. A social badge is a proof that someone has donated time or money (also crypto) for a good cause. We believe that one main motivation for all these great volunteers and donators worldwide is some form of social recognition. Think about a smile of the person you help, a clap on your shoulder, a mentioning of your name in a meeting or even some news article about you. So how the social badge should be the digital form of that social recognition and can be applied where ever a social cause needs besides pure fiscal donation also voluntary work. Like this donating is also more inclusive as work can be contributed instead of the probably scarce source of capital.   
+
+The second part should be a **development of a license options for creators** that considers the effort of the maintainer & sponsors some social impact activity. 
+
+The third and last part is then to implement **a license solution based on decentralized technologies** that supports the monetization of digital assets and automates the sponsoring of projects with a social cause.
 
 The idea is to learn, share, collaborate and support something good.
 
