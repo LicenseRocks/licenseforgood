@@ -1,3 +1,14 @@
+Template:
+
+Brief description: 
+Actors:
+Current state:
+Target state:
+Rough sequence:
+Effort/Complexity: high
+Requirements:
+
+-------------
 
 Various possible use cases:
 
@@ -25,3 +36,42 @@ Impact/Adoption: high
 
 Requirements:
 Founding cooperatives & Reforestation in order to generate surplus and income
+
+-------------
+
+Brief description: 
+Wildlife Sheriff Points Game? 
+Getting “Wildlife “Sheriff” Protector” Badges for reported illegal trade entries, needed observations, discovering and documenting new species and work on data sets as voluntary work or promoting given donations. Doing good building up score record
+
+Actors:
+NGOs, anyone who has internet access
+
+Current state:
+There are a lot of illegal and open accessable sales offers that show that people trade illegally protected species
+
+Target state:
+Produce reliabale data and action points (making it easy to inform platform provider / national prosecutors e.g.) 
+Game their illegal system, get volunteers to report for fun and to get into a competition to close / report as many of these illegal things.
+Should offer to track illegal sales and triggering alert reports
+Should offer connected options for fundraising options
+
+Rough sequence:
+
+1) Onboard a NGO and check what to track
+2) Make a marketing on their website and explore the power of social networks
+3) Maybe add an incentive - cool present of the tracker of the month / year
+4) Check (later) if any alerts can somehow be automated
+5) Any data that can be used to track illeagl traffic rules whould be free abvailable for a Ocean marketplace
+
+Effort/Complexity: medium
+Impact/Adoption: high
+
+Requirements:
+
+Easy interface to report illegale trades
+Easy set up for sending badges to contributors
+Come up with a process to transfer that earned badge to the contributor
+Show a global ranking of contributors (Overall / per time period)
+
+-------------
+
