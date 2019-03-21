@@ -1,3 +1,10 @@
+**Pros**
+
+Javascript API interface
+
+**Cons**
+Skiling up
+
 Some notes I'm collecting while researching Stellar
 
 > Horizon is the client-facing API server for the Stellar ecosystem. It acts as the interface between Stellar Core and applications that want to access the Stellar network. 
