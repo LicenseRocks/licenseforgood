@@ -1,6 +1,17 @@
 # Carbon neutral badge in co-operation with Masarang
 
+
 I would like to propse we do a carbon Neutral badge with the [Masarang Reforestry Project](https://masarang.nl/en/what-we-do/reforestation/)
+
+
+Start with....
+
+### Why?
+
+The aim would be to drive money to Masarang foundation by way of corporate Greenwashing. The economics could get very interesting if there is an over subscription (fixed supply).
+
+
+### What?
 
 The badge is is visual representation of how Carbon Neutral the Company / Organisation / Indivual is. I'm imagining opacity, size, shape, colour or ??? showing how Neutral they are.
 
@@ -13,6 +24,14 @@ The calculation would be something like:
 ``` Estimated Calculated Carbon Produced - (square metres of planted forest sponsored * ratio of maturity)   ```
 
 
+### Who?
+
+- Companies - the biggest potential flow of money
+- Individuals - can show their own personal carbon neutral badge
+- Organisations - Schools, ?, ?, ...
+
+
+
 Other partners:
 
 - [Amadeus](https://amadeus.com/en)
@@ -20,6 +39,8 @@ Other partners:
 - Governments - eg - see Australian government below.
 
 --------------------------------------
+
+#### Why do and would companies do this?
 
 The benefits of carbon neutral certification
 Carbon neutral certification can result in a range of benefits for organisations and businesses taking the lead in moving towards a low carbon economy.
