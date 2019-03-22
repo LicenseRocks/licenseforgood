@@ -1,3 +1,14 @@
+The benefits of carbon neutral certification
+Carbon neutral certification can result in a range of benefits for organisations and businesses taking the lead in moving towards a low carbon economy.
+
+- Increased customer recognition
+- A new competitive edge
+- Enhanced corporate social responsibility
+- Positive social and environmental outcomes
+- Improved employee engagement and community connection
+- Energy and cost savings
+- Networking opportunities with other certified entities.
+
 ## Australia as an example:
 
 > To achieve carbon neutral certification, entities must measure emissions, reduce these where possible, offset remaining emissions and publically report on their carbon neutrality.
