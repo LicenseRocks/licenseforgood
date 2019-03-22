@@ -14,9 +14,10 @@ The calculation would be something like:
 
 
 Other partners:
-Amadeus
-All online portals like Travel Fusion, Trip advisor etc
-Governments - eg - see Australian government below.
+
+- [Amadeus](https://amadeus.com/en)
+- All online portals like Travel Fusion, Trip advisor etc
+- Governments - eg - see Australian government below.
 
 --------------------------------------
 
