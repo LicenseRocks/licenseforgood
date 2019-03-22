@@ -1,10 +1,22 @@
 # Carbon neutral badge in co-operation with Masarang
 
-I would like to propse we do a carbon Neutral badge with Masarang
+I would like to propse we do a carbon Neutral badge with the [Masarang Reforestry Project](https://masarang.nl/en/what-we-do/reforestation/)
 
-I would imagine it working like 
+The badge is is visual representation of how Carbon Neutral the Company / Organisation / Indivual is. I'm imagining opacity, size, shape, colour or ??? showing how Neutral they are.
 
-.... coming soon....
+The badge could be published on website (locked down by ip address and/or other means so it can't be put elsewhere). The generation of the image is dynamic and is a visual representation of how carbon neutral the company is. And all the other places we discussed.
+
+The construction of a badge is built by live-ish data (or more likely data models / general estimations) coming from the Masarang Foundation. 
+
+The calculation would be something like:
+
+``` Estimated Calculated Carbon Produced - (square metres of planted forest sponsored * ratio of maturity)   ```
+
+
+Other partners:
+Amadeus
+All online portals like Travel Fusion, Trip advisor etc
+Governments - eg - see Australian government below.
 
 --------------------------------------
 
