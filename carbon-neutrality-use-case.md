@@ -1,3 +1,13 @@
+# Carbon neutral badge in co-operation with Masarang
+
+I would like to propse we do a carbon Neutral badge with Masarang
+
+I would imagine it working like 
+
+.... coming soon....
+
+--------------------------------------
+
 The benefits of carbon neutral certification
 Carbon neutral certification can result in a range of benefits for organisations and businesses taking the lead in moving towards a low carbon economy.
 
