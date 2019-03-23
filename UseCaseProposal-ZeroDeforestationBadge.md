@@ -17,3 +17,7 @@ Can we financially incentivise companies to sign on and be open and transparent?
 
 
 [Contacts in Berlin](https://climatefocus.com/publications/zero-deforestation-commodity-supply-chains-2020-are-we-winning)
+
+Questions:
+How do these different companies manage their supply chains? 
+What is their measure of success?
