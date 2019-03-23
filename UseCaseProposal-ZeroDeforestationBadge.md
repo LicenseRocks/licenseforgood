@@ -6,6 +6,11 @@ Is thee anyone looking at Supply chains at the hackathon? Could we partner with 
 
 Can we financially incentivise companies to sign on and be open and transparent?
 
+> Fewer than three years remain until 2020, the date by which commodity production in
+forest countries is supposed to be transformed. To achieve success, enhanced action and
+collaboration among sectors and various supply-chain actors are urgently needed. 
+
+Perhaps we could work with [Supply Change](http://www.supply-change.org/pages/methodology)
 
 [more info](https://climatefocus.com/publications/zero-deforestation-commodity-supply-chains-2020-are-we-winning)
 
