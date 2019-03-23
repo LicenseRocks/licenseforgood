@@ -7,3 +7,5 @@
 [Global Forest Watch](https://www.globalforestwatch.org/)
 
 Can we financially incentivise companies to get the badge?
+
+[Contacts in Berlin](https://climatefocus.com/publications/zero-deforestation-commodity-supply-chains-2020-are-we-winning)
