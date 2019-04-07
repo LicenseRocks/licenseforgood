@@ -35,7 +35,9 @@ Think of the fact it has to be super easy for any corporate..
 ### Ethereum based projects tapping into the nodes:
 
 [Infura](https://infura.io) - [their Github](https://github.com/infura)
+
 [Nodesmith](https://nodesmith.io) - [their Github](https://github.com/nodesmith)
+
 [Partity light agent](https://www.parity.io/technologies/) - [their Github](https://github.com/paritytech/js-libs/tree/master/packages/light.js) // also have other solutiosn as wallets and they are from Berlin
 
 
