@@ -8,6 +8,8 @@
 
 [IXO Foundation](http://ixo.foundation/) - [their Github](https://github.com/ixofoundation/)
 
+[Alice.si](https://alice.si - [their Github](https://github.com/alice-si)
+
 ### Ethereum based projects for stnadard smart contracts:
 
 [Openzepplin](https://openzeppelin.org/) - [their Github](https://github.com/OpenZeppelin/)
@@ -20,6 +22,13 @@
 
 [MakerDao](https://makerdao.com) - [their Github](https://github.com/makerdao)
 
+### Ethereum based project enabling Wallets:
+
+--ost?
+--Gnosis?
+--Metamask?
+
+Think of the fact it has to be super easy for any corporate..
 
 ### Ujo - Existing badges to support musicians:
 [What](https://blog.ujomusic.com/the-ego-badge-a54b53561abf) and [why](https://blog.ujomusic.com/supporting-musicians-introducing-digital-collectible-patronage-badges-72758d20734d)
