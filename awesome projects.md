@@ -2,7 +2,7 @@
 
 [Giveth](https://giveth.io) - [Giveth beta](https://beta.giveth.io/) - [their Github](https://github.com/Giveth)
 
-[IXO Foundation] (http://ixo.foundation/) - [their Github] (https://github.com/ixofoundation/)
+[IXO Foundation](http://ixo.foundation/) - [their Github](https://github.com/ixofoundation/)
 
 ### Ujo - Existing badges to support musicians:
 [What](https://blog.ujomusic.com/the-ego-badge-a54b53561abf) and [why](https://blog.ujomusic.com/supporting-musicians-introducing-digital-collectible-patronage-badges-72758d20734d)
