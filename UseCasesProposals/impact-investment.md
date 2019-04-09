@@ -1,0 +1,5 @@
+The [reforestation of Masarang mountain](https://masarang.nl/en/projects/reforestation-masarang-mountain/) is one of Willie and the Masarang foundation's success stories, and I think it could be our use case to bring Willie onboard with our platform
+
+I'm inspired by [open crowd invest](https://www.opencrowdinvest.org/de), created by [Thomas Rippel](http://www.swissbiofarmer.com/about-thomas-rippel), Project Manager Fundraising Operations of the cooperative of [Kulturland Genossenschaft](https://kulturland.de/). Listen to this interview with Thomas to hear the story of how the Genossenschaft came to be and how it works, and the huge success they had with [Der Luzernenhof ist ein Bio-Bauernhof, 30km südlich von Freiburg](https://www.luzernenhof.de/de)
+
+So the combination of Willie having bought the Masarang mountain land already and making it a success, and him having huge credibility. We could approach him with the idea of using these technologies to find money for him to buy more land, assuming that's something that the Masarang Foundation would actually want to do....
