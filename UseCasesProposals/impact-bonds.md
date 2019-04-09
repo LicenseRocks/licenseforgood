@@ -19,4 +19,6 @@ enterprises. The proceeds will finance i) micro, small and medium enterprises; i
 utilizing the loans for productive purposes; iii) home renovations; iv) student loans and (v) women
 borrowers.
 
+I think Willies recipe's for converting land back into sustainable, profitable life styles would be a good candidate for this.
+
 [World bank - Social Bond impact report](https://www.ifc.org/wps/wcm/connect/c537d69c-38ea-4404-a620-8f4a2e560411/2018_03_06_5+PM_ET_IFC_SocialBondReport.pdf?MOD=AJPERES)
