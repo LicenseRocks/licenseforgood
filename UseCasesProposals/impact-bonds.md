@@ -2,7 +2,7 @@
 
 > A social impact bond, also known as pay for success financing,[1] a pay for success bond[2] or a social benefit bond[3] or simply a social bond,[4] is a contract with the public sector in which a commitment is made to pay for improved social outcomes that result in public sector savings
 
-Results need to be measurable and AXO ties in very well with this.
+Results need to be measurable and IXO ties in very well with this.
 
 ** Indonesian projects that  align with a number of the UN Sustainable Development Goals  and are eligible to be funded with IFC Social Bond proceeds.**
 ### PT. Bank Tabungan Pensiunan Nasional Tbk 
